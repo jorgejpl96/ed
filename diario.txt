@@ -1,0 +1,12 @@
+20190916 jp
+
+Hemos creado usuario en github(jorgejpl)
+creado repositorio: ed con README.md y .gitignore (plantilla java)
+
+Clonar en local:
+git clone https://github.com/jorgejpl96/ed.git
+
+
+
+
+
