@@ -6,7 +6,34 @@ creado repositorio: ed con README.md y .gitignore (plantilla java)
 Clonar en local:
 git clone https://github.com/jorgejpl96/ed.git
 
+20190919 jp
 
+git config --global user.name jorgejpl
+git config --global user.email jorlud@alu.iesserpis.org
+git commit -m "diario.txt con introduccióon a github y git"
+git config --global push.defoult simple
+
+git add diario.txt
+git push
+
+20190923 jp
+
+hemos creado una maquina virtual con el ISO 16.04.6 LTS 64bits
+con usuario: administrador
+y contrasenya: sistemas
+nombre del equipo: serpisdam
+caracteristicas de la cpu virtual: 2Gb memoria
+disco de 20Gb
+procesadores: 2
+comandos: sudo -i (pasar a ser root) login
+	cuando vas a usar varios comandos admin pones el comando y te 		ahorras el sudo continuamente
+apt update : Comprueba los paquetes disponibles
+apt full-upgrade : realiza la actualización
+Hemos creado un programa "Hola Mundo" en c.
+
+gcc -E
+gcc -S
+gcc -C
 
 
 
