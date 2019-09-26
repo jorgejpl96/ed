@@ -35,5 +35,15 @@ gcc -E
 gcc -S
 gcc -C
 
+20190926 jp
+
+Descargamos el instalador de Eclipse en la maquina virtual
+Miramos en el ordenador fisico las versiones de java
+	java ----> Ejecutador
+	javac ---> Compilador
+
+java -version --->para ver la version de los programas (sirve para javac)
+update -alternatives --config java ---> Para elegir la version que quieres 	usar de java(en este caso)
+
 
 
