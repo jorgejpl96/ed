@@ -46,4 +46,10 @@ java -version --->para ver la version de los programas (sirve para javac)
 update -alternatives --config java ---> Para elegir la version que quieres 	usar de java(en este caso)
 
 
+20190930 jp
 
+Creamos un "Hola Mundo" en Java
+y aprendemos a abrir un proyecto java dentro de ed/NombreDelProyecto+
+
+javac Holamundo.java = Compila el codigo
+java Holamundo	=Ejecuta el codigo
