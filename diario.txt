@@ -53,3 +53,9 @@ y aprendemos a abrir un proyecto java dentro de ed/NombreDelProyecto+
 
 javac Holamundo.java = Compila el codigo
 java Holamundo	=Ejecuta el codigo
+
+
+2019103 jp
+
+Aprendemos el uso de la clase Scanner en java.
+
