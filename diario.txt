@@ -59,3 +59,16 @@ java Holamundo	=Ejecuta el codigo
 
 Aprendemos el uso de la clase Scanner en java.
 
+20191021 jp
+
+Aprendemos el Random= new Random();
+variable = random.nextInt("Maximo - minimo)(+1)
+args : argumenots que pasamos
+
+20191028 jp
+
+cuenta: luis.velasco@iesserpis.org
+Autoevaluacion + nota justa + repositorio.
+utilizamos el vector y empezamos un programa pequeño de busqueda en un vector.
+Empezamos algo de programacion por funciones (modular).
+
