@@ -8,12 +8,10 @@ public class programa1 {
 
 	}
 
-	public static int max(int[] v)
-	{
+	public static int max(int[] v) {
 		int max = v[0];
-		for(int i = 0; i< v.length; i++)
-		{
-			if(v[i]>max)
+		for (int i = 0; i < v.length; i++) {
+			if (v[i] > max)
 				max = v[i];
 		}
 		return max;
