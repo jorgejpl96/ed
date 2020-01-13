@@ -1,0 +1,6 @@
+/home/jorlud/Projects/Hola/Hola/bin/Debug/Hola.exe
+/home/jorlud/Projects/Hola/Hola/bin/Debug/Hola.pdb
+/home/jorlud/Projects/Hola/Hola/obj/x86/Debug/Hola.csprojAssemblyReference.cache
+/home/jorlud/Projects/Hola/Hola/obj/x86/Debug/Hola.csproj.CoreCompileInputs.cache
+/home/jorlud/Projects/Hola/Hola/obj/x86/Debug/Hola.exe
+/home/jorlud/Projects/Hola/Hola/obj/x86/Debug/Hola.pdb

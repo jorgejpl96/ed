@@ -21,6 +21,7 @@ public class JVector {
 		int index = indexOf(v,x);
 		System.out.println("Numero de veces repetido= " + index);
 		System.out.println("fin");
+		
 	}
 
 
@@ -38,6 +39,7 @@ public class JVector {
 				
 			}
 		}
+		
 		
 		return contador;
 	}
