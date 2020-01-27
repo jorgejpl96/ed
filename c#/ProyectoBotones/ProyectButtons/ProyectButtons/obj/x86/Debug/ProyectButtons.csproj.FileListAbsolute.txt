@@ -1,0 +1,6 @@
+/home/jorlud/ed/c#/ProyectoBotones/ProyectButtons/ProyectButtons/bin/Debug/ProyectButtons.exe
+/home/jorlud/ed/c#/ProyectoBotones/ProyectButtons/ProyectButtons/bin/Debug/ProyectButtons.pdb
+/home/jorlud/ed/c#/ProyectoBotones/ProyectButtons/ProyectButtons/obj/x86/Debug/ProyectButtons.csprojAssemblyReference.cache
+/home/jorlud/ed/c#/ProyectoBotones/ProyectButtons/ProyectButtons/obj/x86/Debug/ProyectButtons.csproj.CoreCompileInputs.cache
+/home/jorlud/ed/c#/ProyectoBotones/ProyectButtons/ProyectButtons/obj/x86/Debug/ProyectButtons.exe
+/home/jorlud/ed/c#/ProyectoBotones/ProyectButtons/ProyectButtons/obj/x86/Debug/ProyectButtons.pdb
