@@ -316,6 +316,7 @@ public partial class MainWindow
 		w27.Fill = false;
 		// Container child vbox2.Gtk.Box+BoxChild
 		this.hbox1 = new global::Gtk.HBox ();
+		this.hbox1.Name = "hbox1";
 		this.hbox1.Spacing = 6;
 		// Container child hbox1.Gtk.Box+BoxChild
 		this.hbox3 = new global::Gtk.HBox ();
@@ -394,5 +395,17 @@ public partial class MainWindow
 		this.DefaultHeight = 300;
 		this.Show ();
 		this.DeleteEvent += new global::Gtk.DeleteEventHandler (this.OnDeleteEvent);
+		this.bvaciar.Clicked += new global::System.EventHandler (this.OnBvaciarClicked);
+		this.bborrar.Clicked += new global::System.EventHandler (this.OnBborrarClicked);
+		this.b7.Clicked += new global::System.EventHandler (this.OnB7Clicked);
+		this.b8.Clicked += new global::System.EventHandler (this.OnB8Clicked);
+		this.b9.Clicked += new global::System.EventHandler (this.OnB9Clicked);
+		this.b4.Clicked += new global::System.EventHandler (this.OnB4Clicked);
+		this.b5.Clicked += new global::System.EventHandler (this.OnB5Clicked);
+		this.b6.Clicked += new global::System.EventHandler (this.OnB6Clicked);
+		this.b1.Clicked += new global::System.EventHandler (this.OnB1Clicked);
+		this.b2.Clicked += new global::System.EventHandler (this.OnB2Clicked);
+		this.b3.Clicked += new global::System.EventHandler (this.OnB3Clicked);
+		this.b.Clicked += new global::System.EventHandler (this.OnBClicked);
 	}
 }

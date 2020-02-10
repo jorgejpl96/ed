@@ -57,6 +57,7 @@
                     <property name="Type">TextOnly</property>
                     <property name="Label" translatable="yes">AC</property>
                     <property name="UseUnderline">True</property>
+                    <signal name="Clicked" handler="OnBvaciarClicked" />
                   </widget>
                   <packing>
                     <property name="Position">0</property>
@@ -71,6 +72,7 @@
                     <property name="Type">TextOnly</property>
                     <property name="Label" translatable="yes">C</property>
                     <property name="UseUnderline">True</property>
+                    <signal name="Clicked" handler="OnBborrarClicked" />
                   </widget>
                   <packing>
                     <property name="Position">1</property>
@@ -102,6 +104,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">7</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnB7Clicked" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
@@ -116,6 +119,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">8</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnB8Clicked" />
                       </widget>
                       <packing>
                         <property name="Position">1</property>
@@ -142,6 +146,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">9</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnB9Clicked" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
@@ -206,6 +211,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">4</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnB4Clicked" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
@@ -220,6 +226,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">5</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnB5Clicked" />
                       </widget>
                       <packing>
                         <property name="Position">1</property>
@@ -246,6 +253,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">6</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnB6Clicked" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
@@ -299,6 +307,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">1</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnB1Clicked" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
@@ -313,6 +322,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">2</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnB2Clicked" />
                       </widget>
                       <packing>
                         <property name="Position">1</property>
@@ -339,6 +349,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">3</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnB3Clicked" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
@@ -406,6 +417,7 @@
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">0</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="OnBClicked" />
                       </widget>
                       <packing>
                         <property name="Position">1</property>
