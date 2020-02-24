@@ -89,7 +89,7 @@ public partial class MainWindow
 		w3.Position = 0;
 		// Container child hbox13.Gtk.Box+BoxChild
 		this.bborrar = new global::Gtk.Button ();
-		this.bborrar.WidthRequest = 0;
+		this.bborrar.WidthRequest = 17;
 		this.bborrar.CanFocus = true;
 		this.bborrar.Name = "bborrar";
 		this.bborrar.UseUnderline = true;
@@ -391,8 +391,8 @@ public partial class MainWindow
 		if ((this.Child != null)) {
 			this.Child.ShowAll ();
 		}
-		this.DefaultWidth = 401;
-		this.DefaultHeight = 300;
+		this.DefaultWidth = 427;
+		this.DefaultHeight = 413;
 		this.Show ();
 		this.DeleteEvent += new global::Gtk.DeleteEventHandler (this.OnDeleteEvent);
 		this.bvaciar.Clicked += new global::System.EventHandler (this.OnBvaciarClicked);
@@ -400,12 +400,18 @@ public partial class MainWindow
 		this.b7.Clicked += new global::System.EventHandler (this.OnB7Clicked);
 		this.b8.Clicked += new global::System.EventHandler (this.OnB8Clicked);
 		this.b9.Clicked += new global::System.EventHandler (this.OnB9Clicked);
+		this.bdividir.Clicked += new global::System.EventHandler (this.OnBdividirClicked);
 		this.b4.Clicked += new global::System.EventHandler (this.OnB4Clicked);
 		this.b5.Clicked += new global::System.EventHandler (this.OnB5Clicked);
 		this.b6.Clicked += new global::System.EventHandler (this.OnB6Clicked);
+		this.bmultiplicar.Clicked += new global::System.EventHandler (this.OnBmultiplicarClicked);
 		this.b1.Clicked += new global::System.EventHandler (this.OnB1Clicked);
 		this.b2.Clicked += new global::System.EventHandler (this.OnB2Clicked);
 		this.b3.Clicked += new global::System.EventHandler (this.OnB3Clicked);
+		this.bresta.Clicked += new global::System.EventHandler (this.OnBrestaClicked);
+		this.bpunto.Clicked += new global::System.EventHandler (this.OnBpuntoClicked);
 		this.b.Clicked += new global::System.EventHandler (this.OnBClicked);
+		this.bigual.Clicked += new global::System.EventHandler (this.OnBigualClicked);
+		this.bsuma.Clicked += new global::System.EventHandler (this.OnBsumaClicked);
 	}
 }
